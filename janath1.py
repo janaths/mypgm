@@ -10,4 +10,4 @@ c=add(a,b)
 d=a+20
 e = sub(c, d)
 print(add(e, c))
-# print(a,"+",b,"=",result)
+print(a,"+",b,"=",result)
